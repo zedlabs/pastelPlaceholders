@@ -1,4 +1,7 @@
-# pastelPlaceholders
+# pastelPlaceholders 🎨
+Add clean pastel colours as loading placeholders for your images 🟥🟧🟨🟪🟩
+
+![demo](demo.gif)
 ## Adding to your Project
 ### project level build.gradle
 ```
@@ -7,15 +10,13 @@ allprojects {
 			...
 			maven { url 'https://jitpack.io' }
 		}
-	}
+	    }
 ```
 
 
 ### app level build.gradle
 ```
-dependencies {
-	        implementation 'com.github.zedlabs:pastelPlaceholders:1.0.0'
-	}
+dependencies { implementation 'com.github.zedlabs:pastelPlaceholders:1.0.3' }
 ```
 
 ## Usage
