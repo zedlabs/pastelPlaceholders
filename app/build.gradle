@@ -8,7 +8,7 @@ android {
 
     defaultConfig {
         applicationId "tk.zedlabs.placeholder_sample"
-        minSdkVersion 23
+        minSdkVersion 21
         targetSdkVersion 30
         versionCode 1
         versionName "1.0"
@@ -44,6 +44,6 @@ dependencies {
     implementation 'com.github.bumptech.glide:glide:4.11.0'
     annotationProcessor 'com.github.bumptech.glide:compiler:4.11.0'
 
-    implementation project(':pastelPlaceholder')
+    implementation 'com.github.zedlabs:pastelPlaceholders:1.0.0'
 
 }
