@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Light Colors-->
+    <color name="pink">#FCD4D4</color>
+    <color name="orange">#FC9CA4</color>
+    <color name="orange_alternate">#FCD4C4</color>
+    <color name="green">#ACDCAC</color>
+    <color name="blue">#B4DCDC</color>
+    <color name="blue_mid">#7CD4D4</color>
+    <color name="brown">#CC9494</color>
+    <color name="green_mid">#A4D4B4</color>
+    <color name="pink_high">#DB89B2</color>
+
+    <!--Dark Colors-->
+    <color name="pink_dark">#C47B93</color>
+    <color name="orange_dark">#C37B53</color>
+    <color name="green_dark">#2B6B5C</color>
+    <color name="black_dark">#3C3C43</color>
+    <color name="blue_dark">#5C7C9C</color>
+    <color name="blue_mid_dark">#749CCC</color>
+    <color name="brown_dark">#6C0404</color>
+    <color name="blue_high_dark">#144464</color>
+    <color name="purple_dark">#946CD4</color>
+
+
+</resources>

@@ -1,0 +1,3 @@
+include ':pastelPlaceholder'
+include ':app'
+rootProject.name = "placeholder-sample"
