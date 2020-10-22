@@ -1,4 +1,7 @@
-# pastelPlaceholders
+# pastelPlaceholders 🎨
+Add clean pastel colours as loading placeholders for your images 🟥🟧🟨🟪🟩
+
+![demo](demo.gif)
 ## Adding to your Project
 ### project level build.gradle
 ```
