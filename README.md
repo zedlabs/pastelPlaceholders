@@ -19,7 +19,8 @@ allprojects {
 dependencies { implementation 'com.github.zedlabs:pastelPlaceholders:1.0.3' }
 ```
 
-## Usage
+## Usage [(sample)](https://github.com/zedlabs/pastelPlaceholders/tree/master/app)
+
 ```
 Pastel().getColorLight() \\ or getColorDark() for dark pastels
 ```
