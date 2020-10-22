@@ -16,7 +16,7 @@ allprojects {
 
 ### app level build.gradle
 ```
-dependencies { implementation 'com.github.zedlabs:pastelPlaceholders:1.0.0' }
+dependencies { implementation 'com.github.zedlabs:pastelPlaceholders:1.0.3' }
 ```
 
 ## Usage
