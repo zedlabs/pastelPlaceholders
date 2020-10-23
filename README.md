@@ -1,4 +1,7 @@
 # pastelPlaceholders 🎨
+
+[![](https://jitpack.io/v/zedlabs/pastelPlaceholders.svg)](https://jitpack.io/#zedlabs/pastelPlaceholders)
+
 Add clean pastel colours as loading placeholders for your images 🟥🟧🟨🟪🟩
 
 ![demo](demo.gif)
