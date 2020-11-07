@@ -1,6 +1,6 @@
 package com.zedlabs.pastelplaceholder
 
-open class Pastel {
+object Pastel {
 
      fun getColorLight(): Int{
         return LightColors.list.random()

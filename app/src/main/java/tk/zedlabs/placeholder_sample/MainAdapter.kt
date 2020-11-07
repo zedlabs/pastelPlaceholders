@@ -32,7 +32,7 @@ class MainAdapter(private val imageSet: List<String>) :
 
         Glide.with(holder.itemView.context)
             .load(imageSet[position])
-            .placeholder(Pastel().getColorDark())
+            .placeholder(Pastel.getColorDark())
             .transition(DrawableTransitionOptions.withCrossFade(300))
             .into(imageView)
     }
