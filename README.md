@@ -1,4 +1,7 @@
 # pastelPlaceholders 🎨
+
+[![](https://jitpack.io/v/zedlabs/pastelPlaceholders.svg)](https://jitpack.io/#zedlabs/pastelPlaceholders)
+
 Add clean pastel colours as loading placeholders for your images 🟥🟧🟨🟪🟩
 
 ![demo](demo.gif)
@@ -19,7 +22,8 @@ allprojects {
 dependencies { implementation 'com.github.zedlabs:pastelPlaceholders:1.0.3' }
 ```
 
-## Usage
+## Usage [(sample)](https://github.com/zedlabs/pastelPlaceholders/tree/master/app)
+
 ```
 Pastel().getColorLight() \\ or getColorDark() for dark pastels
 ```
