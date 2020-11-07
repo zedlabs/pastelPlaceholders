@@ -19,19 +19,19 @@ allprojects {
 
 ### app level build.gradle
 ```
-dependencies { implementation 'com.github.zedlabs:pastelPlaceholders:1.0.3' }
+dependencies { implementation 'com.github.zedlabs:pastelPlaceholders:1.0.4' }
 ```
 
 ## Usage [(sample)](https://github.com/zedlabs/pastelPlaceholders/tree/master/app)
 
 ```
-Pastel().getColorLight() \\ or getColorDark() for dark pastels
+Pastel.getColorLight() \\ or getColorDark() for dark pastels
 ```
 ### example with glide
 ```
   Glide.with(holder.itemView.context)
             .load(imageSet[position])
-            .placeholder(Pastel().getColorLight())
+            .placeholder(Pastel.getColorLight())
             .transition(DrawableTransitionOptions.withCrossFade(300))
             .into(imageView)
 ```
